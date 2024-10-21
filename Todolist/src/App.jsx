@@ -16,6 +16,7 @@ function App() {
   function deltetodo(index){
     const newtask = task.filter((item,index1)=>index1!==index)
     setTask(newtask)
+    /*hello*/
   }
   return (
     <>
