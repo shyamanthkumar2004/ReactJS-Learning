@@ -1,7 +1,7 @@
 import { useState} from 'react'
 import './App.css'
 import Todo from './components/todo'
-//Moksheswar
+//ShyMokCha
 
 function App() {
   const [task,setTask] = useState([])
